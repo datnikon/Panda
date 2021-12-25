@@ -1,0 +1,2 @@
+25/12/2021 18:18:8: ReferenceError: fetch is not defined
+25/12/2021 18:22:27: TypeError [ERR_INVALID_PROTOCOL]: Protocol "http:" not supported. Expected "https:"

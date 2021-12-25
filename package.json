@@ -1,0 +1,23 @@
+{
+  "name": "panda",
+  "version": "1.0.0",
+  "description": "Panda Slack App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "A",
+    "Funny",
+    "Bot",
+    "with",
+    "Dat",
+    "styles"
+  ],
+  "author": "Dat Phan",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.8.1",
+    "dotenv": "^10.0.0"
+  }
+}
